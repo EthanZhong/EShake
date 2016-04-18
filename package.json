@@ -1,0 +1,19 @@
+{
+  "name": "eshake",
+  "version": "1.0.0",
+  "description": "一个简单的手机摇一摇JS工具",
+  "main": "eshake.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EthanZhong/eshake.git"
+  },
+  "keywords": [
+    "shake"
+  ],
+  "author": "EthanZhong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EthanZhong/eshake/issues"
+  },
+  "homepage": "https://github.com/EthanZhong/eshake#readme"
+}
