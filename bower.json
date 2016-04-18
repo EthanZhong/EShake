@@ -1,0 +1,10 @@
+{
+  "name": "eshake",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "eshake.js",
+  "ignore":[
+  	"demo.html"
+  ],
+  "dependencies": {}
+}
