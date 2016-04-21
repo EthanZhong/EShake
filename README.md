@@ -25,13 +25,13 @@ bower install eshake --save
 ```html
 <script src="eshake.js"></script>
 ```
-####AMD引用
+####CMD引用
 
 ```js
 var eshake=require("eshake");
 ```
 
-####CMD引用
+####AMD引用
 
 ```js
 define(['eshake'],function(eshake){

@@ -1,6 +1,6 @@
 {
   "name": "eshake",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "一个简单的手机摇一摇JS工具",
   "main": "eshake.js",
   "repository": {
